@@ -1,6 +1,6 @@
 # ProjetoICF
 
-Este programa foi desenvolvido como projeto final da disciplina de Introdução à Computação em Física, da Universidade Federal de Minas Gerais. O programa tem como objetivo determinar uma estrela a partir de parâmetros primários, além disso também são determinadas as principais informações sobre a estrela procurada.
+Este programa foi desenvolvido como projeto final da disciplina de Introdução à Computação em Física, da Universidade Federal de Minas Gerais. O programa tem como objetivo determinar uma estrela a partir de parâmetros primários, além disso também são determinadas as principais informações sobre a estrela procurada. O código está disponível no repositório tanto no formato de notebook("Projeto_ICF(notebook).ipynb") tanto como python comum("Projeto_ICF(py).py").
 
 ### Identificando a estrela
  
